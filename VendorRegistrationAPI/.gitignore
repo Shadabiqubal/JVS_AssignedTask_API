@@ -1,0 +1,12 @@
+# Exclude Visual Studio files
+.vs/
+
+# Exclude temporary files
+*.tmp
+*.log
+*.obj
+*.dll
+
+# Exclude system files
+.DS_Store
+Thumbs.db

@@ -1,0 +1,6 @@
+@VendorRegistrationAPI_HostAddress = http://localhost:5166
+
+GET {{VendorRegistrationAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

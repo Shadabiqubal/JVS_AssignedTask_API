@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ioENJ8eXX31mJqFgKS+SkEPPmN+ZRcjCZxltc+YhKgg=",
+  "Source": "VendorRegistrationAPI",
+  "BasePath": "_content/VendorRegistrationAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
